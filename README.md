@@ -46,8 +46,8 @@ optimizer/
 
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/ai-code-optimizer.git](https://github.com/YOUR_USERNAME/ai-code-optimizer.git)
-cd ai-code-optimizer
+git clone [https://github.com/YOUR_USERNAME/optimizer.git](https://github.com/YOUR_USERNAME/optimizer.git)
+cd optimizer
 
 
 2. Install Dependencies
